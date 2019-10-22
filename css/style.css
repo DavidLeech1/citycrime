@@ -1,0 +1,16 @@
+/* Stylesheet by David J. Leech, 2019 */
+<style>
+body {
+	font-family: sans-serif;
+	}
+	
+	#wrapper {
+	 width: 960px;
+	 margin: 15px auto;
+	}
+
+	#map {
+	 height: 450px;
+	 margin: 15px auto;
+	}
+</style>
